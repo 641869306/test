@@ -1,0 +1,397 @@
+.choose{
+width: 1423px;
+height: 828px;
+padding-top: 90px;
+ padding-bottom: 60px;
+}
+.choose-mes{
+  width: 1226px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+.choose-mes h2{
+
+font-size: 42px;
+    line-height: 54px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.choose-mes ul{
+width: 1423px;
+}
+.choose ul li{
+float:left;
+width: 613px;
+text-align: center;
+}
+.choose img{
+text-align: center;
+display: inline-block;
+}
+.choose dl{
+margin-top: 40px;
+text-align: center;
+     overflow: hidden;
+}
+.chooser dl dd.icon{
+	width: 35px;
+    height: 35px;
+    margin: 0 auto;
+}
+.chooser .icon11{
+	display: block;
+	background: url(../img2/icon-1.png)) 50% 50% no-repeat;
+    width: 35px;
+    height: 35px;
+    margin: 0 auto;
+}
+.choose dd{
+      color: #484848;
+     float: left;
+     display: block;
+    color: #c5c5c5;
+    font-size: 18px !important;
+    margin-top: 15px;
+}
+.cpu{
+	width: 1423px;
+}
+.cpu-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.leftmes{
+	float: left;
+	width: 296px;
+}
+.leftmes h2{
+	
+	font-size: 26px;
+	font-weight: normal;
+}
+.webfont{
+	padding-top: 0;
+}
+.rightmes{
+	float: left;
+	line-height: 38px;
+    font-size: 18px;
+}
+.rightmes h3{
+	font-weight: normal;
+	font-size: 42px;
+    line-height: 54px;
+    margin-bottom: 30px;
+}
+.ram{
+	width: 1423px;
+}
+.ram-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.ram-mes .leftmes{
+	float: left;
+	width: 296px;
+}
+.ram-mes .rightmes{
+	float: left;
+	    width: 916px;
+	line-height: 38px;
+    font-size: 18px;
+}
+.ram-mes .rightmes h3{
+	 float: left;
+    width: 430px;
+    margin-bottom: 0;
+        font-size: 42px;
+    line-height: 54px;
+    font-weight: normal;
+    text-align: left;
+}
+ .ram-mes .rightmes span{
+ 	display: block;
+    font-size: 21px;
+    line-height: 1;
+ }
+ .ram-mes .context{
+ 	margin-bottom: 40px;
+ 	line-height: 38px;
+    font-size: 18px;
+ }
+.ram-remark{
+	margin-top: 35px;
+    color: #999;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: left;
+}
+.screen{
+	width: 1423px;
+}
+.screen-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.screen-mes .leftmes{
+	float: left;
+	width: 296px;
+	
+}
+.screen-mes h3{
+	text-align: left;
+}
+.screen-mes .rightmes{
+	float: left;
+	    width: 916px;
+	line-height: 38px;
+    font-size: 18px;
+}
+.camera{
+	width: 1423px;
+}
+.camera-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.camera-mes h3{
+	text-align: left;
+}
+.camera-mes span{
+	display: block;
+    font-size: 21px;
+    text-align: left;
+}
+.camera-mes .rightmes .span5{
+	float: left;
+}
+.camera-mes .rightmes .span5 h4{
+	font-size: 21px;
+    line-height: 54px;
+    margin-bottom: 22px;
+    font-weight: normal;
+}
+.cm{
+	margin-top: 45px;
+}
+.spe{
+	margin-left: 0;
+    width: 250px;
+}
+.mr{
+	margin-right: 40px;
+	width: 296px;
+}
+.context2{
+float: left;
+}
+.context2 h4{
+	font-size: 21px;
+    line-height: 54px;
+    margin-bottom: 22px;
+    font-weight: normal;
+}
+.face{
+	width: 1423px;
+}
+.face-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+
+.span7{
+	float: left;
+	line-height: 38px;
+    font-size: 18px;
+    width:420px;
+}
+.span7 h4{
+	font-size: 21px;
+    line-height: 54px;
+    margin-bottom: 22px;
+    font-weight: normal;
+}
+.span7 span{
+	display: block;
+    font-size: 21px;
+    line-height: 38px;
+     font-weight: normal;
+}
+.battery{
+	width: 1423px;
+}
+.battery-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.network{
+	width: 1423px;
+}
+.network-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.network-mes h3{
+	text-align: left;
+	
+}
+.network-mes h4{
+	font-weight: normal;
+	font-size: 21px;
+    line-height: 54px;
+    margin-bottom: 22px;
+}
+.size{
+	width: 1423px;
+}
+.size-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.button{
+	width: 1423px;
+}
+.button-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.button-mes h4{
+	font-size: 21px;
+    line-height: 54px;
+    margin-bottom: 22px;
+    font-weight: normal;
+}
+.button img{
+	    margin-bottom: 100px;
+	    display: block;
+}
+.nav{
+	width: 1423px;
+}
+.nav-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.nav-mes h4{
+	font-size: 21px;
+    line-height: 54px;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+.nav-mes p{
+	font-size: 14px;
+	padding: 0;
+	margin-bottom: 30px;
+	text-align: left;
+}
+.nav-mes ul{
+	overflow: hidden;
+	margin-left: 20px;
+}
+.nav-mes ul li{
+	float: left;
+	font-size: 16px;
+    line-height: 2.5;
+    width: 178px;
+    float: left;
+    list-style-type: disc;
+}
+.nav-mes .rightmes{
+	width: 916px;
+}
+.nav-mes .rightmes p{
+	line-height: 38px;
+    font-size: 18px;
+}
+.sale{
+	width: 1423px;
+}
+.sale-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+.sale-mes .rightmes{
+	width: 916px;
+}
+.sale-mes h4,p{
+	text-align: left;
+}
+.sale-mes h4{
+	font-size: 21px;
+    line-height: 54px;
+    font-weight: normal;
+}
+.sale-mes p{
+	margin-bottom: 35px;
+
+}
+.info{
+	width: 1423px;
+}
+.info-mes{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	padding: 50px 0;
+	
+	margin: 20px auto;
+	color: #ccc;
+	    font-size: 12px;
+    list-style-type: none;
+    line-height: 1.5;
+}
+.info-mes p{
+	margin: 20px auto;
+    padding: 0;
+    font-size: 12px;
+    list-style-type: none;
+    line-height: 1.5;
+    color: #ccc;
+    width: 1118px;
+}
